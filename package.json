@@ -1,5 +1,6 @@
 {
 	"name": "prompts",
+	"license": "MIT",
 	"module": "index.ts",
 	"type": "module",
 	"scripts": {
