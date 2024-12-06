@@ -2,7 +2,7 @@
 
 Giving the right context to AI models is tough. This repo is an idea to programmatically fetch code from libraries directly to use for AI context.
 
-The general thought is something like this repo could generate files of libraries you're interested in and save them into your own projects.
+The general thought is something like this repo could generate AI RAG-friendly text of libraries you're interested in and save them into your own projects.
 
 The inspiration for this is:
 
